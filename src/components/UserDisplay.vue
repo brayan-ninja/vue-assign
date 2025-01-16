@@ -27,7 +27,7 @@
 
 <script>
 export default {
-  name: "VueAssignment",
+  name: "UserDisplay  ",
   data() {
     return {
       posts: [],
